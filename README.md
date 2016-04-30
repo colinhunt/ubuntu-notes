@@ -17,11 +17,11 @@
 
 - Display current runlevel:
 
-      runlevel
+        runlevel
       
 - Change runlevel to 5
 
-      sudo /sbin/telinit 5
+        sudo /sbin/telinit 5
 
 ### 4.5 Startup Scripts
 
